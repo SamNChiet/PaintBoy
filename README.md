@@ -7,11 +7,9 @@ A goofy off-brand, handheld port of MS Paint for the actual Nintendo Game Boy (D
 - Game Boy Printer Support
 - Paint in colors! (GBC Only)
 
----
 
-Disclaimer: I am not affiliated with Nintendo or Microsoft, nor do I own their trademarks! This is purely a fan-project.
+*Disclaimer: I am not affiliated with Nintendo or Microsoft, nor do I own their trademarks! This is purely a fan-project.*
 
----
 
 # Art Gallery
 
